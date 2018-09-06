@@ -1,0 +1,2 @@
+# YiiAutonoma
+asdasd
